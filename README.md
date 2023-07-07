@@ -1,4 +1,4 @@
-
+just test
 # fastjson
 
 [![Java CI](https://github.com/alibaba/fastjson/actions/workflows/ci.yaml/badge.svg?branch=master)](https://github.com/alibaba/fastjson/actions/workflows/ci.yaml)
